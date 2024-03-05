@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbe0c335a3af21044a65c5886cb5aa1e, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  info:
+    level: 10
+    hp: 10
+    atk: 10
+    def: 10
+    agi: 10
+    luk: 10
+  body: {fileID: 21300000, guid: c72d76411c5ce5048b7ac924ef7182a6, type: 3}

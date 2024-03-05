@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game/GamePlay/GamePlay.unity
+    guid: db5fffa6bae3b544baff6f7a55184651
+  - enabled: 1
+    path: Assets/Scenes/Game/Menu/Menu.unity
+    guid: 3ec747ffa4c6f6347964bd95a8bb5b3c
+  - enabled: 1
+    path: Assets/Scenes/Popup/Attack/PopupAttack.unity
+    guid: 03f2b08dd5d2f1a468d43deafbdc9546
+  m_configObjects: {}
